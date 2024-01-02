@@ -30,7 +30,7 @@ $website_content = array(
 );
 
 $website_images = array(
-    'en' => array('images/pack3.jpg'),
-    'ar' => array('images/arab.jpg'),
-    'hi' =>  array('images/gallery2.jpg'),
+    'en' => array('pack3.jpg'),
+    'ar' => array('arab.jpg'),
+    'hi' =>  array('gallery2.jpg'),
 );
